@@ -1,5 +1,5 @@
-import {View, FlatList, StyleSheet} from 'react-native';
 import React from 'react';
+import {View, FlatList, StyleSheet} from 'react-native';
 
 export default function List({data, render}) {
   return (

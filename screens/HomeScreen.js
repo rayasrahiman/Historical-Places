@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-  StyleSheet,
-  Text,
-  View,
-  FlatList,
-  Image,
-  TouchableOpacity,
-} from 'react-native';
+import {StyleSheet, View, TouchableOpacity} from 'react-native';
 import {useSelector, useDispatch} from 'react-redux';
 
 import {toggleVisited} from '../redux/itemSlice';
@@ -22,14 +15,19 @@ const HomeScreen = ({navigation}) => {
       <TouchableOpacity
         onPress={() => navigation.navigate('Details', {HistoricalPlace: item})}>
         <View style={{padding: 16}}>
-          <Card HP={item} onToggle={() => dispatch(toggleVisited(item.id))} HPItem={item} page="Home"/>
+          <Card
+            HP={item}
+            onToggle={() => dispatch(toggleVisited(item.id))}
+            HPItem={item}
+            page="Home"
+          />
         </View>
       </TouchableOpacity>
     </View>
   );
   return (
     <View style={styles.container}>
-      <List data={dataItems} render={renderItem}/>
+      <List data={dataItems} render={renderItem} />
     </View>
   );
 };

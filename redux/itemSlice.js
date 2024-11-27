@@ -1,5 +1,5 @@
-import { createSlice } from '@reduxjs/toolkit';
-import data from '../data.json'
+import {createSlice} from '@reduxjs/toolkit';
+import data from '../data.json';
 
 const itemSlice = createSlice({
   name: 'items',
@@ -14,5 +14,5 @@ const itemSlice = createSlice({
   },
 });
 
-export const { toggleVisited } = itemSlice.actions;
+export const {toggleVisited} = itemSlice.actions;
 export default itemSlice.reducer;

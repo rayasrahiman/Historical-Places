@@ -1,213 +1,212 @@
 [
-    {
-      "id": 1,
-      "historic_name": "Great Wall of China",
-      "image_url": "https://media.istockphoto.com/id/506393198/photo/great-wall-of-china.jpg?s=612x612&w=0&k=20&c=cJti-RrdUUkLX_zgzi6KgPbgApHoxJtMJSvlRUYqOzg=",
-      "description": "An ancient series of walls and fortifications located in northern China, built to protect against invasions.",
-      "visited": false
-    },
-    {
-      "id": 2,
-      "historic_name": "Machu Picchu",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
-      "description": "A 15th-century Inca citadel located in the Andes Mountains in Peru.",
-      "visited": false
-    },
-    {
-      "id": 3,
-      "historic_name": "Taj Mahal",
-      "image_url": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8fDA%3D",
-      "description": "A stunning white marble mausoleum in Agra, India, built by Mughal Emperor Shah Jahan in memory of his wife.",
-      "visited": false
-    },
-    {
-      "id": 4,
-      "historic_name": "Colosseum",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1199px-Colosseo_2020.jpg",
-      "description": "A large amphitheater in Rome, Italy, known for its gladiatorial combats in ancient Rome.",
-      "visited": false
-    },
-    {
-      "id": 5,
-      "historic_name": "Stonehenge",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1200px-Stonehenge2007_07_30.jpg",
-      "description": "A prehistoric monument in England consisting of a ring of standing stones.",
-      "visited": false
-    },
-    {
-      "id": 6,
-      "historic_name": "Eiffel Tower",
-      "image_url": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "description": "A wrought-iron lattice tower in Paris, France, and a global cultural icon.",
-      "visited": false
-    },
-    {
-      "id": 7,
-      "historic_name": "Angkor Wat",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cambodia_2638B_-_Angkor_Wat.jpg/1200px-Cambodia_2638B_-_Angkor_Wat.jpg?20191113161424",
-      "description": "A massive temple complex in Cambodia and one of the largest religious monuments in the world.",
-      "visited": false
-    },
-    {
-      "id": 8,
-      "historic_name": "Statue of Liberty",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Statue_of_Liberty%2C_NY.jpg/1200px-Statue_of_Liberty%2C_NY.jpg",
-      "description": "A colossal neoclassical sculpture on Liberty Island in New York Harbor, USA.",
-      "visited": false
-    },
-    {
-      "id": 9,
-      "historic_name": "Acropolis of Athens",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
-      "description": "An ancient citadel in Athens, Greece, featuring the Parthenon and other historic buildings.",
-      "visited": false
-    },
-    {
-      "id": 10,
-      "historic_name": "Pyramids of Giza",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1200px-All_Gizah_Pyramids.jpg",
-      "description": "The iconic ancient Egyptian pyramids located near Cairo.",
-      "visited": false
-    },
-    {
-      "id": 11,
-      "historic_name": "Christ the Redeemer",
-      "image_url": "https://www.thoughtco.com/thmb/Bh7Ic6ntJ7dCTGyj3PpAZ5PjTvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/christredeemer-10139156-567c92283df78ccc15684502.jpg",
-      "description": "A massive statue of Jesus Christ in Rio de Janeiro, Brazil.",
-      "visited": false
-    },
-    {
-      "id": 12,
-      "historic_name": "Petra",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg/1200px-The_Monastery%2C_Petra%2C_Jordan8.jpg",
-      "description": "An archaeological city in Jordan famous for its rock-cut architecture.",
-      "visited": false
-    },
-    {
-      "id": 13,
-      "historic_name": "Alhambra",
-      "image_url": "https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/alhambra-granada-20044065-istock.jpg_604889389.jpg",
-      "description": "A stunning palace and fortress complex in Granada, Spain.",
-      "visited": false
-    },
-    {
-      "id": 14,
-      "historic_name": "Big Ben",
-      "image_url": "https://media.istockphoto.com/id/547499548/photo/big-ben-and-westminster-bridge-at-sunset.jpg?s=612x612&w=0&k=20&c=WJzKHtaSBuSo6tknT8rYl4Hd0OIBjPlXDgMd6LB4fio=",
-      "description": "The nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London.",
-      "visited": false
-    },
-    {
-      "id": 15,
-      "historic_name": "Mount Rushmore",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/1200px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
-      "description": "A monumental sculpture carved into the granite face of Mount Rushmore in South Dakota, USA.",
-      "visited": false
-    },
-    {
-      "id": 16,
-      "historic_name": "Sydney Opera House",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sydneyoperahouse_at_night.jpg/1200px-Sydneyoperahouse_at_night.jpg?20170930110736",
-      "description": "A multi-venue performing arts center in Sydney, Australia.",
-      "visited": false
-    },
-    {
-      "id": 17,
-      "historic_name": "Chichen Itza",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1200px-Chichen_Itza_3.jpg",
-      "description": "A large pre-Columbian archaeological site in Mexico.",
-      "visited": false
-    },
-    {
-      "id": 18,
-      "historic_name": "Forbidden City",
-      "image_url": "https://magnifissance.com/wp-content/uploads/2021/12/5-%C2%A9-Haiwei-Hu-Getty-1-1024x416.jpg",
-      "description": "A vast palace complex in Beijing, China, that served as the home of emperors for almost 500 years.",
-      "visited": false
-    },
-    {
-      "id": 19,
-      "historic_name": "Golden Gate Bridge",
-      "image_url": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "description": "A famous suspension bridge connecting San Francisco Bay to Marin County, USA.",
-      "visited": false
-    },
-    {
-      "id": 20,
-      "historic_name": "Buckingham Palace",
-      "image_url": "https://w0.peakpx.com/wallpaper/461/295/HD-wallpaper-buckingham-palace-in-london-england-travel.jpg",
-      "description": "The London residence and administrative headquarters of the monarch of the United Kingdom.",
-      "visited": false
-    },
-    {
-      "id": 21,
-      "historic_name": "Tower of Pisa",
-      "image_url": "https://as1.ftcdn.net/v2/jpg/02/07/19/52/1000_F_207195274_1BXHhDgdaD2zUbGjgkUBAIhrJD1iHQm8.jpg",
-      "description": "A freestanding bell tower of the cathedral in Pisa, Italy, known for its unintended tilt.",
-      "visited": false
-    },
-    {
-      "id": 22,
-      "historic_name": "Hagia Sophia",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg",
-      "description": "A historic mosque and former church in Istanbul, Turkey.",
-      "visited": false
-    },
-    {
-      "id": 23,
-      "historic_name": "Notre Dame Cathedral",
-      "image_url": "https://cdn.shortpixel.ai/spai/q_lossy+w_1032+h_711+to_auto+ret_img/www.thingstodoinparis.com/wp-content/uploads/Notre-Dame-Cathedral-1024x705-1.jpg",
-      "description": "A famous Gothic cathedral in Paris, France.",
-      "visited": false
-    },
-    {
-      "id": 24,
-      "historic_name": "Neuschwanstein Castle",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1200px-Schloss_Neuschwanstein_2013.jpg?20220216194933",
-      "description": "A 19th-century historicist palace in Bavaria, Germany.",
-      "visited": false
-    },
-    {
-      "id": 25,
-      "historic_name": "Palace of Versailles",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Versailles_Palace.jpg?20120525134633",
-      "description": "A former royal residence near Paris, France.",
-      "visited": false
-    },
-    {
-      "id": 26,
-      "historic_name": "Kremlin",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kremlin_Moscow.jpg/1200px-Kremlin_Moscow.jpg?20130831091952",
-      "description": "A historic fortified complex at the heart of Moscow, Russia.",
-      "visited": false
-    },
-    {
-      "id": 27,
-      "historic_name": "Prague Castle",
-      "image_url": "https://www.terrahunt.com/TerraHunt/media/static-media/ece6b350-4d53-46bc-9a42-a05f680a1a28@w800.webp",
-      "description": "A historic castle complex in Prague, Czech Republic.",
-      "visited": false
-    },
-    {
-      "id": 28,
-      "historic_name": "Mount Fuji",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mt._Fuji.jpg?20070910182604",
-      "description": "An iconic volcanic mountain in Japan.",
-      "visited": false
-    },
-    {
-      "id": 29,
-      "historic_name": "Sagrada Familia",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg",
-      "description": "A large unfinished Roman Catholic church in Barcelona, Spain, designed by Antoni Gaudí.",
-      "visited": false
-    },
-    {
-      "id": 30,
-      "historic_name": "Blue Mosque",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blue_Mosque.jpg/1200px-Blue_Mosque.jpg",
-      "description": "A historic mosque in Istanbul, Turkey, known for its blue tiles surrounding its interior walls.",
-      "visited": false
-    }
-  ]
-  
+  {
+    "id": 1,
+    "historic_name": "Great Wall of China",
+    "image_url": "https://media.istockphoto.com/id/506393198/photo/great-wall-of-china.jpg?s=612x612&w=0&k=20&c=cJti-RrdUUkLX_zgzi6KgPbgApHoxJtMJSvlRUYqOzg=",
+    "description": "An ancient series of walls and fortifications located in northern China, built to protect against invasions.",
+    "visited": false
+  },
+  {
+    "id": 2,
+    "historic_name": "Machu Picchu",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+    "description": "A 15th-century Inca citadel located in the Andes Mountains in Peru.",
+    "visited": false
+  },
+  {
+    "id": 3,
+    "historic_name": "Taj Mahal",
+    "image_url": "https://plus.unsplash.com/premium_photo-1661885523029-fc960a2bb4f3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8fDA%3D",
+    "description": "A stunning white marble mausoleum in Agra, India, built by Mughal Emperor Shah Jahan in memory of his wife.",
+    "visited": false
+  },
+  {
+    "id": 4,
+    "historic_name": "Colosseum",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1199px-Colosseo_2020.jpg",
+    "description": "A large amphitheater in Rome, Italy, known for its gladiatorial combats in ancient Rome.",
+    "visited": false
+  },
+  {
+    "id": 5,
+    "historic_name": "Stonehenge",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1200px-Stonehenge2007_07_30.jpg",
+    "description": "A prehistoric monument in England consisting of a ring of standing stones.",
+    "visited": false
+  },
+  {
+    "id": 6,
+    "historic_name": "Eiffel Tower",
+    "image_url": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "A wrought-iron lattice tower in Paris, France, and a global cultural icon.",
+    "visited": false
+  },
+  {
+    "id": 7,
+    "historic_name": "Angkor Wat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cambodia_2638B_-_Angkor_Wat.jpg/1200px-Cambodia_2638B_-_Angkor_Wat.jpg?20191113161424",
+    "description": "A massive temple complex in Cambodia and one of the largest religious monuments in the world.",
+    "visited": false
+  },
+  {
+    "id": 8,
+    "historic_name": "Statue of Liberty",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Statue_of_Liberty%2C_NY.jpg/1200px-Statue_of_Liberty%2C_NY.jpg",
+    "description": "A colossal neoclassical sculpture on Liberty Island in New York Harbor, USA.",
+    "visited": false
+  },
+  {
+    "id": 9,
+    "historic_name": "Acropolis of Athens",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg",
+    "description": "An ancient citadel in Athens, Greece, featuring the Parthenon and other historic buildings.",
+    "visited": false
+  },
+  {
+    "id": 10,
+    "historic_name": "Pyramids of Giza",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1200px-All_Gizah_Pyramids.jpg",
+    "description": "The iconic ancient Egyptian pyramids located near Cairo.",
+    "visited": false
+  },
+  {
+    "id": 11,
+    "historic_name": "Christ the Redeemer",
+    "image_url": "https://www.thoughtco.com/thmb/Bh7Ic6ntJ7dCTGyj3PpAZ5PjTvo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/christredeemer-10139156-567c92283df78ccc15684502.jpg",
+    "description": "A massive statue of Jesus Christ in Rio de Janeiro, Brazil.",
+    "visited": false
+  },
+  {
+    "id": 12,
+    "historic_name": "Petra",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/The_Monastery%2C_Petra%2C_Jordan8.jpg/1200px-The_Monastery%2C_Petra%2C_Jordan8.jpg",
+    "description": "An archaeological city in Jordan famous for its rock-cut architecture.",
+    "visited": false
+  },
+  {
+    "id": 13,
+    "historic_name": "Alhambra",
+    "image_url": "https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/andalucia/alhambra-granada-20044065-istock.jpg_604889389.jpg",
+    "description": "A stunning palace and fortress complex in Granada, Spain.",
+    "visited": false
+  },
+  {
+    "id": 14,
+    "historic_name": "Big Ben",
+    "image_url": "https://media.istockphoto.com/id/547499548/photo/big-ben-and-westminster-bridge-at-sunset.jpg?s=612x612&w=0&k=20&c=WJzKHtaSBuSo6tknT8rYl4Hd0OIBjPlXDgMd6LB4fio=",
+    "description": "The nickname for the Great Bell of the clock at the north end of the Palace of Westminster in London.",
+    "visited": false
+  },
+  {
+    "id": 15,
+    "historic_name": "Mount Rushmore",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/1200px-Mount_Rushmore_detail_view_%28100MP%29.jpg",
+    "description": "A monumental sculpture carved into the granite face of Mount Rushmore in South Dakota, USA.",
+    "visited": false
+  },
+  {
+    "id": 16,
+    "historic_name": "Sydney Opera House",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sydneyoperahouse_at_night.jpg/1200px-Sydneyoperahouse_at_night.jpg?20170930110736",
+    "description": "A multi-venue performing arts center in Sydney, Australia.",
+    "visited": false
+  },
+  {
+    "id": 17,
+    "historic_name": "Chichen Itza",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1200px-Chichen_Itza_3.jpg",
+    "description": "A large pre-Columbian archaeological site in Mexico.",
+    "visited": false
+  },
+  {
+    "id": 18,
+    "historic_name": "Forbidden City",
+    "image_url": "https://magnifissance.com/wp-content/uploads/2021/12/5-%C2%A9-Haiwei-Hu-Getty-1-1024x416.jpg",
+    "description": "A vast palace complex in Beijing, China, that served as the home of emperors for almost 500 years.",
+    "visited": false
+  },
+  {
+    "id": 19,
+    "historic_name": "Golden Gate Bridge",
+    "image_url": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "description": "A famous suspension bridge connecting San Francisco Bay to Marin County, USA.",
+    "visited": false
+  },
+  {
+    "id": 20,
+    "historic_name": "Buckingham Palace",
+    "image_url": "https://w0.peakpx.com/wallpaper/461/295/HD-wallpaper-buckingham-palace-in-london-england-travel.jpg",
+    "description": "The London residence and administrative headquarters of the monarch of the United Kingdom.",
+    "visited": false
+  },
+  {
+    "id": 21,
+    "historic_name": "Tower of Pisa",
+    "image_url": "https://as1.ftcdn.net/v2/jpg/02/07/19/52/1000_F_207195274_1BXHhDgdaD2zUbGjgkUBAIhrJD1iHQm8.jpg",
+    "description": "A freestanding bell tower of the cathedral in Pisa, Italy, known for its unintended tilt.",
+    "visited": false
+  },
+  {
+    "id": 22,
+    "historic_name": "Hagia Sophia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg",
+    "description": "A historic mosque and former church in Istanbul, Turkey.",
+    "visited": false
+  },
+  {
+    "id": 23,
+    "historic_name": "Notre Dame Cathedral",
+    "image_url": "https://cdn.shortpixel.ai/spai/q_lossy+w_1032+h_711+to_auto+ret_img/www.thingstodoinparis.com/wp-content/uploads/Notre-Dame-Cathedral-1024x705-1.jpg",
+    "description": "A famous Gothic cathedral in Paris, France.",
+    "visited": false
+  },
+  {
+    "id": 24,
+    "historic_name": "Neuschwanstein Castle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/1200px-Schloss_Neuschwanstein_2013.jpg?20220216194933",
+    "description": "A 19th-century historicist palace in Bavaria, Germany.",
+    "visited": false
+  },
+  {
+    "id": 25,
+    "historic_name": "Palace of Versailles",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Versailles_Palace.jpg?20120525134633",
+    "description": "A former royal residence near Paris, France.",
+    "visited": false
+  },
+  {
+    "id": 26,
+    "historic_name": "Kremlin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kremlin_Moscow.jpg/1200px-Kremlin_Moscow.jpg?20130831091952",
+    "description": "A historic fortified complex at the heart of Moscow, Russia.",
+    "visited": false
+  },
+  {
+    "id": 27,
+    "historic_name": "Prague Castle",
+    "image_url": "https://www.terrahunt.com/TerraHunt/media/static-media/ece6b350-4d53-46bc-9a42-a05f680a1a28@w800.webp",
+    "description": "A historic castle complex in Prague, Czech Republic.",
+    "visited": false
+  },
+  {
+    "id": 28,
+    "historic_name": "Mount Fuji",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mt._Fuji.jpg?20070910182604",
+    "description": "An iconic volcanic mountain in Japan.",
+    "visited": false
+  },
+  {
+    "id": 29,
+    "historic_name": "Sagrada Familia",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sagrada_Familia_01.jpg/1200px-Sagrada_Familia_01.jpg",
+    "description": "A large unfinished Roman Catholic church in Barcelona, Spain, designed by Antoni Gaudí.",
+    "visited": false
+  },
+  {
+    "id": 30,
+    "historic_name": "Blue Mosque",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Blue_Mosque.jpg/1200px-Blue_Mosque.jpg",
+    "description": "A historic mosque in Istanbul, Turkey, known for its blue tiles surrounding its interior walls.",
+    "visited": false
+  }
+]

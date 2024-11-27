@@ -4,7 +4,10 @@ import {View, Text, Image, TouchableOpacity, StyleSheet} from 'react-native';
 export default function Card({HP, onToggle, HPItem, page}) {
   return (
     <View>
-      <Image style={[styles.image, {height: page === "detail" ? 350 : 200 }]} source={{uri: HP.image_url}} />
+      <Image
+        style={[styles.image, {height: page === 'detail' ? 350 : 200}]}
+        source={{uri: HP.image_url}}
+      />
       {page === 'detail' ? (
         <Text style={styles.description}>{HP.description}</Text>
       ) : (
@@ -34,13 +37,13 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'center',
     fontSize: 18,
-    color:"#000000",
+    color: '#000000',
   },
   description: {
     fontWeight: 'bold',
     textAlign: 'center',
     fontSize: 22,
-    color:"#000000",
+    color: '#000000',
   },
   buttonContainer: {
     marginVertical: 10,
@@ -53,7 +56,7 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   buttonText: {
-    color:"#000000",
+    color: '#000000',
     fontSize: 20,
     fontWeight: 'bold',
     textTransform: 'uppercase',

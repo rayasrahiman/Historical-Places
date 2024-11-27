@@ -1,18 +1,25 @@
 import React from 'react';
 import {View, StyleSheet} from 'react-native';
-import { useSelector, useDispatch } from 'react-redux';
+import {useSelector, useDispatch} from 'react-redux';
 
-import { toggleVisited } from '../redux/itemSlice';
+import {toggleVisited} from '../redux/itemSlice';
 import Card from '../components/Card';
 
 export default function DetailScreen({route}) {
   const {HistoricalPlace} = route.params;
-  const item = useSelector(state => state.items.find(todo => todo.id === HistoricalPlace.id))
-  const dispatch = useDispatch()
+  const item = useSelector(state =>
+    state.items.find(todo => todo.id === HistoricalPlace.id),
+  );
+  const dispatch = useDispatch();
   return (
     <View style={styles.item}>
-    <Card HP={HistoricalPlace} onToggle={() => dispatch(toggleVisited(HistoricalPlace.id))} HPItem={item} page="detail" />
-      </View>
+      <Card
+        HP={HistoricalPlace}
+        onToggle={() => dispatch(toggleVisited(HistoricalPlace.id))}
+        HPItem={item}
+        page="detail"
+      />
+    </View>
   );
 }
 
