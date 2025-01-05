@@ -1,11 +1,16 @@
 import React from 'react';
 import {View, Text, Image, TouchableOpacity, StyleSheet} from 'react-native';
 
+import {verticalScale} from './Dimensions';
+
 export default function Card({HP, onToggle, HPItem, page}) {
   return (
     <View>
       <Image
-        style={[styles.image, {height: page === 'detail' ? 350 : 200}]}
+        style={[
+          styles.image,
+          {height: page === 'detail' ? verticalScale(300) : verticalScale(200)},
+        ]}
         source={{uri: HP.image_url}}
       />
       {page === 'detail' ? (
